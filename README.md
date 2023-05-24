@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on open source-projects<br>🌱 I’m currently exploring Backend-Database<br>💬 Ask me about Web Development.<br>Pronounce: He/Him<br>⚡ Fun fact "Java is to JavaScript what car is to carpet."
+🔭 I’m currently working on NodeJS and open source-projects<br>🌱 I’m currently exploring Backend-Database<br>💬 Ask me about Web Development.<br>🙋‍♂️ Pronounce: He/Him<br>⚡ Fun fact "Java is to JavaScript what car is to carpet."
 
 
 ## 🌐 Socials:
