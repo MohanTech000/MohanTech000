@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on MERN Stack and open source-projects<br>🌱 I’m currently exploring AI <br>💬 Ask me about Web Development.<br>🙋‍♂️ Pronounce: He/Him<br>⚡ Fun fact "Java is to JavaScript what car is to carpet."
+🔭 Working on MERN Stack and open source-projects<br>🌱 I’m currently exploring AI and WebRTC<br>💬 Ask me about Web Development.<br>🙋‍♂️ Pronounce: He/Him<br>⚡ Fun fact "Java is to JavaScript what car is to carpet."
 
 
 ## 🌐 Socials:
