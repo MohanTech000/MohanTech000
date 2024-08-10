@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
 <h3 align="center">Full Stack Web Developer | ReactJS, NextJS, NodeJS | Developing Responsive and User Friendly modern Web designs for Businesses.</h3>
 
+
+
 - 🔭 I’m currently working on **WebRTC and Open-source Projects**
 
 - 🌱 I’m currently learning **AI LLMA Models and WebRTC**
@@ -16,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad mohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mohsin" height="30" width="40" /></a>
-<a href="https://fb.com/mohsin khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin khan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100052022748524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin khan" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_mohan962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mohan962" height="30" width="40" /></a>
 </p>
 
