@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
 <h3 align="center">Full Stack Web Developer | ReactJS, NextJS, NodeJS | Developing Responsive and User Friendly modern Web designs for Businesses.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohantech000" alt="mohantech000" /></a> </p>
-
 - 🔭 I’m currently working on **WebRTC and Open-source Projects**
 
 - 🌱 I’m currently learning **AI LLMA Models and WebRTC**
