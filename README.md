@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **WebRTC and Open-source Projects**
 
-- 🌱 I’m currently learning **AI LLMA Models and WebRTC**
+- 🌱 I’m currently exploring **AI LLMA Models and WebRTC**
 
-- 👯 I’m looking to collaborate on Youtube
+- 👯 I’m looking to collaborate with developers
 
-- 🤝 I’m looking for help with Developers
+- 🤝 Ready to fix your technical problems 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-mohsin-7ba970262/](https://www.linkedin.com/in/muhammad-mohsin-7ba970262/)
 
