@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **AI LLMA Models and WebRTC**
 
+- 👯 I’m looking to collaborate on Youtube
+
+- 🤝 I’m looking for help with Developers
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-mohsin-7ba970262/](https://www.linkedin.com/in/muhammad-mohsin-7ba970262/)
 
 - 💬 Ask me about **WebRTC, AI, React, Next, Node, Vue**
