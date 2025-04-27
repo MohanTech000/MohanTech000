@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
-<h3 align="center">Full Stack Web Developer | ReactJS, NextJS, NodeJS | Developing Responsive and User Friendly modern Web designs for Businesses.</h3>
+<h3 align="center">Full Stack Web Developer | ReactJS, NextJS, NodeJS | Building Custom Web Apps & AI Chatbot Solutions for Businesses</h3>
 
 <br><br>
 
