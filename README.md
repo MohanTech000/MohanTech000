@@ -3,7 +3,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on **WebRTC and Open-source Projects**
+- 🔭 I’m currently working on **WebRTC, Custom AI Chatbots and Open-source Projects**
 
 - 🌱 I’m currently exploring **AI LLMA Models and WebRTC**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **WebRTC, AI, React, Next, Node, Vue**
 
-- 📫 How to reach me **wtech9021@gmail.com**
+- 📫 How to reach me **m.mohsin7722@gmail.com**
 
 - ⚡ Fun fact **Real Programmer ❌ GPT-Coders ✅**
 
